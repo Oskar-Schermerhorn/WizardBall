@@ -11,3 +11,6 @@ WizardBall/Intermediate/CachedAssetRegistry.bin
 WizardBall/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 WizardBall/Saved/Config/Windows/Engine.ini
 WizardBall/Saved/Logs/WizardBall.log
+*.ini
+*.bin
+*.log
